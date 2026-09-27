@@ -21,10 +21,8 @@ You can click the Preview link to take a look at your changes.
 
 --
 - 👋 Hi, I’m full time daddy, and full heart maker you can call me : @daddyengineer
-- 👀 I’m interested in learning python, C# , robotics, IoT, MCU, dev boards, any other cool stuff
-- 🌱 I’m currently learning : ROS2, python for Machine Learning, edge impulse
-- 💞️ I’m looking to collaborate on any robotic and IoT project
-- 📫 How to reach me just send me message or follow my twitter =D
+- 👀 I’m interested in learning Ai model, robotics, IoT, dev boards, any other cool stuff
+- 💞️ I’m looking to collaborate on any Ai and Robotic/IoT project
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
