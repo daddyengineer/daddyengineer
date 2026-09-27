@@ -24,9 +24,9 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in learning Ai model, robotics, IoT, dev boards, any other cool stuff
 - 💞️ I’m looking to collaborate on any Ai and Robotic/IoT project
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/e9b8e2e9f9e0856083f92afb6bec8ec3f902bf62/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=15366&format=png&color=000000" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
