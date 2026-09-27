@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg](https://icons8.com/icon/DiGZkjCzyZXn/cursor-ai)" title="Rpi" alt="Rpi" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=DiGZkjCzyZXn&format=png&color=000000" title="Rpi" alt="Rpi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"  title="Unity" alt="unity" width="40" height="40"/>&nbsp;
 </div>
 
